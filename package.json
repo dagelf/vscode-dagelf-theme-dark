@@ -1,0 +1,15 @@
+{   "name":"theme-dagelf-dark-name",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "version":"1.0.0",
+    "publisher":"dagelf",
+    "license":"MIT",
+    "engines":{"vscode":"*"},
+    "contributes":{
+        "themes":[{
+            "label":"Dagelf",
+            "uiTheme":"vs-dark",
+            "path":"./themes/dagelf.json"
+        }]
+    }
+}
