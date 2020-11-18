@@ -1,4 +1,4 @@
-{
+{ // sorted by ~color to easily find the color to change. Crying shame that there doesn't seem to be a quicker way
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
